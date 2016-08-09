@@ -1,0 +1,16 @@
+{
+    "name": "akileads/tracker-client",
+    "description": "Code de suivi permettant la remontée des informations de navigation et des événements dans Track'R",
+    "type": "librairy",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aki'leads",
+            "email": "hosting@akileads.com"
+        }
+    ],
+    "require": {},
+    "config": {
+    	"vendor-dir": "./"
+    }
+}
